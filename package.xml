@@ -15,7 +15,7 @@
 
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
-  <build_depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-cmake3</build_depend>
+  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-cmake3</depend>
 
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
