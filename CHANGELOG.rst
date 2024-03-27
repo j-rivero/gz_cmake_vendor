@@ -2,8 +2,8 @@
 Changelog for package gz_cmake_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2024-03-27)
+------------------
 * Require calling find_package on the underlying package (`#3 <https://github.com/gazebo-release/gz_cmake_vendor/issues/3>`_)
   This also changes the version of the vendor package to 0.0.1
   and adds the version of the vendored package in the description
