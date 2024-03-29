@@ -2,8 +2,8 @@
 Changelog for package gz_cmake_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2024-03-29)
+------------------
 * Update vendored package version
 * Contributors: Addisu Z. Taddese
 
