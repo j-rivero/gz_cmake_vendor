@@ -2,6 +2,11 @@
 Changelog for package gz_cmake_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add support for the `<pkg>::<pkg>` and `<pkg>::all` targets, fix sourcing of dsv files
+* Contributors: Addisu Z. Taddese
+
 0.0.5 (2024-04-08)
 ------------------
 * Update vendored version to 3.5.2
