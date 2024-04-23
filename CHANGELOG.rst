@@ -2,8 +2,8 @@
 Changelog for package gz_cmake_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.7 (2024-04-23)
-------------------
+Forthcoming
+-----------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
 
